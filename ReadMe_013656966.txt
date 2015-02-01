@@ -1,0 +1,8 @@
+I have made the entire system online on http://karishmamehta.net76.net/
+
+But the Analysis tab of my system is not workig as intended. It is running well on local system, so i am sending the screenshot of the analysis tab.
+
+In the analysis tab, i have worked on group queries like plotting a pie diagram based on cities, students and disease. For example, i have grouped the data of students based on city in which they reside and provided analysis of percentage of students who visited the health center grouped on the cities criteria. Second, analysis based on students name allowed the system to analyze which student frequently visited the health center. Third analysis was based on the concept of which disease happened to occur more frequently
+
+Apart from it, cron jobs facility is not available for free on web hosting 000webhost.com. It comes with premiuim account. So i couldnt demonstrate that feature. Whereas sendmail on button click is working fine. Due to time constraints, I couldnt get the cron jobs working due to time constraints, but the cron jobs are working on local system. I have attached the screenshots for cron jobs which worked on local machine
+ 
